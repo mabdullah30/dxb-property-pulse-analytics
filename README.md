@@ -49,21 +49,21 @@ I am a Data Analytics professional specializing in transforming raw, complex dat
     <tr>
       <td align="center">
         <b>1. Market Pulse</b><br>
-        <img src="screenshots/01_Market_Pulse.png" alt="Market Pulse" width="400"/>
+        <img src="https://raw.githubusercontent.com/mabdullah30/dxb-property-pulse-analytics/main/screenshots/01_Market_Pulse.png" alt="Market Pulse" width="400"/>
       </td>
       <td align="center">
         <b>2. Area Intelligence</b><br>
-        <img src="screenshots/02_Area_Intelligence.png" alt="Area Intelligence" width="400"/>
+        <img src="https://raw.githubusercontent.com/mabdullah30/dxb-property-pulse-analytics/main/screenshots/02_Area_Intelligence.png" alt="Area Intelligence" width="400"/>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <b>3. Price & Yield</b><br>
-        <img src="screenshots/03_Price_And_Yield.png" alt="Price and Yield" width="400"/>
+        <b>3. Price Intelligence</b><br>
+        <img src="https://raw.githubusercontent.com/mabdullah30/dxb-property-pulse-analytics/main/screenshots/03_Price_And_Yield.png" alt="Price Intelligence" width="400"/>
       </td>
       <td align="center">
         <b>4. Location Premium</b><br>
-        <img src="screenshots/04_Location_Premium.png" alt="Location Premium" width="400"/>
+        <img src="https://raw.githubusercontent.com/mabdullah30/dxb-property-pulse-analytics/main/screenshots/04_Location_Premium.png" alt="Location Premium" width="400"/>
       </td>
     </tr>
   </table>
