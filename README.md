@@ -59,7 +59,7 @@ I am a Data Analytics professional specializing in transforming raw, complex dat
     <tr>
       <td align="center">
         <b>3. Price Intelligence</b><br>
-        <img src="https://raw.githubusercontent.com/mabdullah30/dxb-property-pulse-analytics/main/screenshots/03_Price_And_Yield.png" alt="Price Intelligence" width="400"/>
+        <img src="https://raw.githubusercontent.com/mabdullah30/dxb-property-pulse-analytics/main/screenshots/03_Price_Intelligence.png" alt="Price Intelligence" width="400"/>
       </td>
       <td align="center">
         <b>4. Location Premium</b><br>
